@@ -1,6 +1,9 @@
 git is  a distributed version control system 
 git is free software distributeed under the GPL
 Git has a mutable index called stage.
+git tracks changes
+在修改文件后我们将文件放入了暂存区，然后我们再添加这段话。
+
 该文件夹下主要放置的是需要使用Git托管的代码内容
 以下是改仓库内文件保管的几点注意事项，以及Git的介绍：
 
